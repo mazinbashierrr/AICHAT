@@ -83,10 +83,7 @@ export default function Home() {
             animation: 'pulse 1.5s infinite'
           }}
         >
-          Mazin's AICHAT
-          <br>
-          </br>
-          CLICK ANYWHERE 
+          Click Anywhere
         </Typography>
         <style jsx>{`
           @keyframes pulse {
